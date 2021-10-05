@@ -1,0 +1,60 @@
+Normal
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Feliz
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Alegre
+	Aisha (1)
+	Jéssica (1)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Triste
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Com raiva
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Surpresa
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (1, 2, 3)
+	Maria (1 ,2, 3)
+Chateada
+	Aisha (1, 2)
+	Jéssica (1)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Cínica
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (Não possui)
+	Maria (1, 2, 3)
+Com medo
+	Aisha (1)
+	Jéssica (1)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Corada
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Apaixonada
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)
+Morta
+	Aisha (1, 2)
+	Jéssica (1, 2)
+	Kiara (1, 2, 3)
+	Maria (1, 2, 3)

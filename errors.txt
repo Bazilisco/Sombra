@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1588: end of line expected.
+    hide escola_1_noite:
+                       ^
+
+Ren'Py Version: Ren'Py 7.4.8.1895
+Wed Sep 29 16:48:09 2021
