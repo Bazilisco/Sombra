@@ -14,6 +14,12 @@ Sombra foi um projeto feito em um curto prazo e sem muita pretensão de ser algo
 
 <img src="https://media.discordapp.net/attachments/903397314683613245/941771195043434566/SombraShow2.gif" alt="Encontro com uma das personagens"/>
 
+# Como baixar (🇵🇹-🇧🇷)
+
+Para fazer download do jogo, basta entrar na página dele no Itch io e seguir as instruções. <a href="https://bazilisco777.itch.io/sombra">Clique aqui</a> para jogar.
+
+<img src="https://media.discordapp.net/attachments/903397314683613245/942777788216258560/unknown.png?width=494&height=480" alt="Página do jogo no itch io"/>
+
 # Sobre mim (🇵🇹-🇧🇷)
 
 Meu nome é Mosiah Adam. Sou estudante do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Moro no Brasil, residente da cidade de Caicó, do sertão potiguar, e atualmente estou cursando o segundo ano do curso de Informática para Internet.
@@ -35,6 +41,12 @@ The game takes place from the perspective of a girl, an ordinary high school stu
 Sombra was a project made in a short term and without much pretense of being something extremely complex. As stated in the description, this was a game made for a Portuguese activity, where I created a game based on a short story written by me. The game itself doesn't have many mechanics, just the basics and essentials of the genre (Multiple choices and keyword typing options). Initially, I even wanted to do something more complex, as you can see if the main script is analyzed; however, as the game was made only by me and in a small space of time where I still had to study about the engine (since it was my first contact with Ren'py, despite already having a notion of python), I couldn't implement some of the things I wanted, like friendship level, romance level and how much that influenced and changed the game.
 
 <img src="https://media.discordapp.net/attachments/903397314683613245/941771195043434566/SombraShow2.gif" alt="Meeting with one of the characters"/>
+
+# How to download (🇺🇸)
+
+To download the game, just go to its page on Itch io and follow the instructions. <a href="https://bazilisco777.itch.io/sombra">Click here</a> to play.
+
+<img src="https://media.discordapp.net/attachments/903397314683613245/942777788216258560/unknown.png?width=494&height=480" alt="Game page in itch io"/>
 
 # About me (🇺🇸)
 
